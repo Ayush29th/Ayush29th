@@ -16,6 +16,6 @@ I build efficient solutions and continuously improve through real-world projects
 - Tools: Git, GitHub  
 
 📫 Contact
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@example.com
+- GitHub: https://github.com/Ayush29th  
+- LinkedIn: www.linkedin.com/in/ayush-pratap-singh-0483872b7  
+- Email: ayush.pratap.sde@gmail.com
