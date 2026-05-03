@@ -1,6 +1,7 @@
 Hi, I'm Ayush 👋
 
 💡 About Me
+
 Software Developer focused on Data Structures & Algorithms and Web Development.  
 I build efficient solutions and continuously improve through real-world projects.
 
