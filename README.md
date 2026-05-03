@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Ayush 👋
 
-<!--
-**Ayush29th/Ayush29th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
+Software Developer focused on Data Structures & Algorithms and Web Development.  
+I build efficient solutions and continuously improve through real-world projects.
 
-Here are some ideas to get you started:
+🔭 Current Work
+- Solving DSA problems daily to strengthen problem-solving skills  
+- Building full-stack web projects  
+- Learning system design fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Technologies
+- Languages: C++, Python, JavaScript  
+- Frontend: HTML, CSS, React (learning)  
+- Backend: Node.js (learning)  
+- Tools: Git, GitHub  
+
+📫 Contact
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: your-email@example.com
